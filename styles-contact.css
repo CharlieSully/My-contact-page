@@ -92,7 +92,7 @@ h1 {
 	font-family: 'canvas-script', sans-serif;
 font-weight: 500;
 font-style: normal;
-	font-size: 7em;
+	font-size: 6em;
     margin: 0px auto 10px auto;
     color: #fff;
 }
@@ -101,7 +101,7 @@ h2 {
 	font-family: "cinema-script", sans-serif;
 font-weight: 400;
 font-style: normal;
-	font-size: 2.5em;
+	font-size: 2em;
     line-height: 1.4;
     color: #fff;
     padding: 0px 0px;
@@ -112,7 +112,7 @@ p {
 	font-family: "cinema-script", sans-serif;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 2.5em;
+	font-size: 2em;
     line-height: 1.6;
     color: #fff;
 }
